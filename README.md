@@ -1,27 +1,12 @@
-# 🎰 Week05 Bootcamp2019 Project: Slot Machine
+# 🎰 My Awesome Slot Machine
 
 ### Goal: Build a Simple Slot Machine
 
-Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
-
 ![alt text](screencapture-file-Users-resilientcoders7-Documents-RC-2019-C-personalSite-lattes-template-projects-slotMachine-index-html-2019-10-10-17_04_16.png)
 
+### Tech used: HTML5, CSS3, Javascript
+Here I built a fully function lottery machine. That actively responds to user input.  Users are able to choose between the min bet of $5 and a max bet of $50.  The user also starts with a money pot of $1000.  Once the user has chosen there bet and click on the button then the slot machine kicks of to see if they won or not
 
-### How to submit your code for review:
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
