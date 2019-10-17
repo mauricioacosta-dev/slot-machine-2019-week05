@@ -4,7 +4,6 @@
 
 Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
 
-screencapture-file-Users-resilientcoders7-Documents-RC-2019-C-personalSite-lattes-template-projects-slotMachine-index-html-2019-10-10-17_04_16.png
 
 ### How to submit your code for review:
 
