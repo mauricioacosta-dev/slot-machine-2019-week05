@@ -1,5 +1,6 @@
 # 🎰 My Awesome Slot Machine
 
+https://quizzical-fermi-f84648.netlify.com
 ### Goal: Build a Simple Slot Machine
 
 ![alt text](screencapture-file-Users-resilientcoders7-Documents-RC-2019-C-personalSite-lattes-template-projects-slotMachine-index-html-2019-10-10-17_04_16.png)
